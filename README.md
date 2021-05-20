@@ -1,1 +1,1 @@
-# test hoge
+# Quick Recipe

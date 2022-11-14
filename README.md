@@ -1,3 +1,3 @@
 # Quick Recipe
 ## hogehoge
-Fuga
+Fuga Fuga
